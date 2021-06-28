@@ -1,9 +1,9 @@
-package com.virusDAO;
+package com.virus.DAO;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import com.login.SignUpBO;
+import com.virus.BO.SignUpBO;
 
 public class SignUpDAO 
 {

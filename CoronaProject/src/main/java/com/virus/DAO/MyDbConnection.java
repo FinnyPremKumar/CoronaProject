@@ -1,4 +1,4 @@
-package com.virusDAO;
+package com.virus.DAO;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

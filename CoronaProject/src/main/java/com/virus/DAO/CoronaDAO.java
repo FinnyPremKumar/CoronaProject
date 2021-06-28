@@ -1,11 +1,11 @@
-package com.virusDAO;
+package com.virus.DAO;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import com.login.DetailsBO;
-import com.login.ResponseBO;
+import com.virus.BO.DetailsBO;
+import com.virus.BO.ResponseBO;
 
 
 public class CoronaDAO 

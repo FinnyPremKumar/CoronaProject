@@ -1,4 +1,4 @@
-package com.login;
+package com.virus.BO;
 
 import java.util.List;
 

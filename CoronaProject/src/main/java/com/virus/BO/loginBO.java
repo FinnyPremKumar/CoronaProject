@@ -1,4 +1,4 @@
-package com.login;
+package com.virus.BO;
 
 public class loginBO 
 {
