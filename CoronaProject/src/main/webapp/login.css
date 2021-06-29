@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+body
+{
+	height:90px;
+	width:300px;
+	
+}
+#div1{
+	background:cyan;
+	margin:200px 0px 10px 570px
+	
+}
+input{
+	border:1px solid black;
+	margin-top:10px;
+	border-radius:6px;
+	
+}
